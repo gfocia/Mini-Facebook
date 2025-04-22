@@ -81,6 +81,7 @@ Defines the app as `mini_fb`.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   pip install django pillow
 2. Apply Migrations
    ```bash
    python manage.py makemigrations
